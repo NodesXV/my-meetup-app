@@ -4,7 +4,7 @@ const DUMMY_DATA = [
     id: 'm1',
     title: 'This is a first meetup',
     image:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2021_Taipei_Night_Skyline.jpg/1920px-2021_Taipei_Night_Skyline.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/62/e9/2b/101.jpg?w=700&h=-1&s=1',
     address: '5, Xinyi Road, Xinyi District',
     description:
         'This is a first, amazing meetup which you definitely should not miss.'
@@ -13,7 +13,7 @@ const DUMMY_DATA = [
     id: 'm2',
     title: 'This is a second meetup',
     image: 
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/1920px-Skyscrapers_of_Shinjuku_2009_January.jpg',
+    'https://www.japan-guide.com/g18/3009_01.jpg',
     address: '4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011, Japan',
     description:
         'This is a second, amzing meetup which you definitely should not miss'
