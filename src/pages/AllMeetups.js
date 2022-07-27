@@ -7,7 +7,7 @@ const DUMMY_DATA = [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/62/e9/2b/101.jpg?w=700&h=-1&s=1',
     address: '5, Xinyi Road, Xinyi District',
     description:
-        'This is a first, amazing meetup which you definitely should not miss.'
+        'This is the first location, amazing meetup which you definitely should not miss!'
 },
 {
     id: 'm2',
@@ -16,7 +16,7 @@ const DUMMY_DATA = [
     'https://www.japan-guide.com/g18/3009_01.jpg',
     address: '4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011, Japan',
     description:
-        'This is a second, amzing meetup which you definitely should not miss'
+        'This is the second location, amazing meetup which you definitely should not miss!'
 }
 ];
 
